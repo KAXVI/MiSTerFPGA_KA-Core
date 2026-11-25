@@ -1,6 +1,6 @@
 # MiSTerFPGA_KA-Core
 
-## Night Striker
+## NIGHT STRIKER
 
 <img src="docs\image/NS01.png" width="30%"> <img src="docs\image/NS02.png" width="30%">\
 <img src="docs\image/NS03.png" width="30%"> <img src="docs\image/NS04.png" width="30%">
