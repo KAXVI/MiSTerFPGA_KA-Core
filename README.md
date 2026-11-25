@@ -14,8 +14,6 @@
 ・Supports position-hold functionality for controls\
 ・Supports high-score saving
 
-・Fixed mame bug
-
 Recommended!
 
 Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
