@@ -5,7 +5,7 @@
 <img src="docs\image/NS01.png" width="45%"> <img src="docs\image/NS02.png" width="45%">\
 <img src="docs\image/NS03.png" width="45%"> <img src="docs\image/NS04.png" width="45%">
 
-Feature
+### Feature
 
 ・Supports DIP switches\
 ・Supports CRT output, with horizontal/vertical position adjustment\
@@ -16,7 +16,7 @@ Feature
 ・Supports position-hold functionality for controls\
 ・Supports high-score saving
 
-Core Internal Processing
+### Core Internal Processing
 
 | Process | Implementation |
 |-|-|
@@ -26,7 +26,7 @@ Core Internal Processing
 | Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
 | MAME C++ rendering logic | Used solely for comparative verification on a PC; not included in the RBF file |
 
-Recommended way to play
+### Recommended way to play
 
 Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
 
