@@ -16,7 +16,7 @@
 ・Supports position-hold functionality for controls\
 ・Supports high-score saving
 
-Through our own independent research, we have implemented the TC0150ROD chip, correcting rendering issues present in MAME to bring the experience closer to that of the original arcade hardware.
+Based on our own research, we have recreated the TC0150ROD chip. This fixes rendering issues that previously existed in MAME, providing an experience closer to that of the original arcade hardware.
 
 ### Core Internal Processing
 
