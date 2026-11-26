@@ -2,8 +2,8 @@
 
 ## NIGHT STRIKER
 
-<img src="docs\image/NS01.png" width="30%"> <img src="docs\image/NS02.png" width="30%">\
-<img src="docs\image/NS03.png" width="30%"> <img src="docs\image/NS04.png" width="30%">
+<img src="docs\image/NS01.png" width="45%"> <img src="docs\image/NS02.png" width="45%">\
+<img src="docs\image/NS03.png" width="45%"> <img src="docs\image/NS04.png" width="45%">
 
 ・Supports DIP switches\
 ・Supports CRT output, with horizontal/vertical position adjustment\
