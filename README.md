@@ -16,7 +16,7 @@
 ・Supports position-hold functionality for controls\
 ・Supports high-score saving
 
-I analyzed the TC0150ROD chip and recreated it using RTL circuitry. This has resolved rendering issues previously encountered in MAME, allowing for an experience that more closely mirrors the original arcade hardware.
+I have recreated the TC0150ROD chip using RTL circuitry. This resolves rendering issues previously encountered in MAME, providing an experience that more closely mirrors the original arcade hardware.
 
 ### Core Internal Processing
 
