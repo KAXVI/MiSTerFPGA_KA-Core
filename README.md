@@ -16,7 +16,7 @@
 ・Supports position-hold functionality for controls\
 ・Supports high-score saving
 
-Based on our own research, we have recreated the TC0150ROD chip. This fixes rendering issues that previously existed in MAME, providing an experience closer to that of the original arcade hardware.
+I analyzed the TC0150ROD chip and recreated it using RTL circuitry. This has resolved rendering issues previously encountered in MAME, allowing for an experience that more closely mirrors the original arcade hardware.
 
 ### Core Internal Processing
 
@@ -26,7 +26,7 @@ Based on our own research, we have recreated the TC0150ROD chip. This fixes rend
 | Z80 CPU | TV80 (within FPGA) |
 | YM2610 Sound Generator | JT10 (within FPGA) |
 | Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
-| MAME C++ rendering logic | Used solely for comparative verification on a PC; not included in the RBF file |
+| MAME C++ rendering logic | Used solely for comparative verification on a PC during the production process; Not included in the RBF file |
 
 ### Recommended way to play
 
