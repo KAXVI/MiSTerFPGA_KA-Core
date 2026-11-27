@@ -1,6 +1,7 @@
 # MiSTerFPGA_KA-Core
 
-These arcade cores were created for personal use on MiSTerFPGA.
+> [!NOTE]
+> These arcade cores were created for personal use on MiSTerFPGA.
 
 - [NIGHT STRIKER](#night-striker)
 - [CHASE H.Q.](#chase-hq)
