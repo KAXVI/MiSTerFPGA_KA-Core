@@ -35,8 +35,6 @@ Night Striker (1989)
  - Supports position-hold functionality for controls
  - Supports high-score saving
 
-I have recreated the TC0150ROD chip using RTL circuitry. This resolves rendering issues previously encountered in MAME, providing an experience that more closely mirrors the original arcade hardware.
-
 ## Core Internal Processing
 
 | Processor | Implementation |
@@ -45,7 +43,7 @@ I have recreated the TC0150ROD chip using RTL circuitry. This resolves rendering
 | Z80 CPU | TV80 (within FPGA) |
 | YM2610 Chip | JT10 (within FPGA) |
 | Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
-| MAME C++ rendering logic | Used solely for comparative verification on a PC during the production process; Not included in the RBF file |
+| MAME source / rendering logic | Not in use |
 
 ## Recommended way to play
 
@@ -98,7 +96,7 @@ This can be configured via the OSD (default is OFF).\
 | Z80 CPU | TV80 (within FPGA) |
 | YM2610 Chip | JT10 (within FPGA) |
 | Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
-| MAME C++ rendering logic | Not in use |
+| MAME source / rendering logic | Not in use |
 
 ## Recommended way to play
 
