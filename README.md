@@ -4,6 +4,8 @@ These arcade cores were created for personal use on MiSTerFPGA.
 
 - NIGHT STRIKER
 - CHASE H.Q.
+- [NIGHT STRIKER](#NIGHTSTRIKER)
+- [CHASE H.Q.](#CHASEH.Q.)
 
 ## NIGHT STRIKER
 
