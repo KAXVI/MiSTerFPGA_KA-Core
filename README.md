@@ -6,10 +6,13 @@
 - [NIGHT STRIKER](#night-striker)
 - [CHASE H.Q.](#chase-hq)
 
+  
+  
+
 # NIGHT STRIKER
 
-<img src="docs\image/NS01.png" width="45%"> <img src="docs\image/NS02.png" width="45%">\
-<img src="docs\image/NS03.png" width="45%"> <img src="docs\image/NS04.png" width="45%">
+<img src="docs\image\NS01.png" width="45%"> <img src="docs\image\NS02.png" width="45%">\
+<img src="docs\image\NS03.png" width="45%"> <img src="docs\image\NS04.png" width="45%">
 
 Night Striker (1989)
 | Integrated Circuit | Processor |
@@ -47,11 +50,13 @@ Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monito
 
 Be sure to try it out with a [CyberStick](https://www.micomsoft.co.jp/xe1aj-usb.html)!
 
+  
+  
 
 # CHASE H.Q.
 
-<img src="docs\image/CHQ01.png" width="45%"> <img src="docs\image/CHQ02.png" width="45%">\
-<img src="docs\image/CHQ03.png" width="45%"> <img src="docs\image/CHQ04.png" width="45%">
+<img src="docs\image\CHQ01.png" width="45%"> <img src="docs\image\CHQ02.png" width="45%">\
+<img src="docs\image\CHQ03.png" width="45%"> <img src="docs\image\CHQ04.png" width="45%">
 
 Chase H.Q. (1988)
 | Integrated Circuit | Processor |
@@ -75,12 +80,12 @@ Chase H.Q. (1988)
  - As a support feature, the current gear can be displayed on the screen.\
 When this feature is enabled, it is processed in the same way as a HUD.\
 This can be configured via the OSD (default is OFF=Manual).\
-　　<img src="docs\image/CHQ002.png" width="10%">
+　　<img src="docs\image\CHQ002.png" width="10%">
 
  - As a support feature, Automatic gear shifting is available.\
 When this feature is enabled, the system will automatically switch between LOW and HI gears based on your current speed.\
 This can be configured via the OSD (default is OFF).\
-　　<img src="docs\image/CHQ001.png" width="10%">
+　　<img src="docs\image\CHQ001.png" width="10%">
 
 ## Core Internal Processing
 
