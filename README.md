@@ -5,18 +5,13 @@ These arcade cores were created for personal use on MiSTerFPGA.
 - [NIGHT STRIKER](#night-striker)
 - [CHASE H.Q.](#chase-hq)
 
-
- 
 # NIGHT STRIKER
 
 <img src="docs\image/NS01.png" width="45%"> <img src="docs\image/NS02.png" width="45%">\
 <img src="docs\image/NS03.png" width="45%"> <img src="docs\image/NS04.png" width="45%">
 
-|Title|
-|-|
-| Night Striker (1989) |
-
-| Processor | |
+Night Striker (1989)
+| Integrated Circuit | Processor |
 |-|-|
 | Main&Sub CPU | 68000x2 12MHz |
 | Sound CPU | Z80 4MHz |
@@ -37,7 +32,7 @@ I have recreated the TC0150ROD chip using RTL circuitry. This resolves rendering
 
 ## Core Internal Processing
 
-| Process | Implementation |
+| Processor | Implementation |
 |-|-|
 | 68000 CPU ×2 | FX68K (within FPGA) |
 | Z80 CPU | TV80 (within FPGA) |
