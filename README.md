@@ -16,7 +16,7 @@ These arcade cores were created for personal use on MiSTerFPGA.
 |-|
 | Night Striker (1989) |
 
-| Processor |
+| Processor | |
 |-|-|
 | Main&Sub CPU | 68000x2 12MHz |
 | Sound CPU | Z80 4MHz |
