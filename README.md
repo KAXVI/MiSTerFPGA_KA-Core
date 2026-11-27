@@ -39,3 +39,43 @@ Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monito
 
 Be sure to try it out with a [CyberStick](https://www.micomsoft.co.jp/xe1aj-usb.html)!
 
+
+## CHASE H.Q.
+
+<img src="docs\image/CHQ01.png" width="45%"> <img src="docs\image/CHQ02.png" width="45%">\
+<img src="docs\image/CHQ03.png" width="45%"> <img src="docs\image/CHQ04.png" width="45%">
+
+### Feature
+
+  - Supports DIP switches
+  - Supports CRT output, with horizontal/vertical position adjustment
+  - Supports gamma and contrast correction
+  - Supports analog controllers
+  - Supports CyberStick
+  - Supports Some USB steering controllers
+  - Supports high-score saving
+
+  - As a support feature, the current gear can be displayed on the screen.
+When this feature is enabled, it is processed in the same way as a HUD.
+<img src="docs\image/CHQ001.png" width="45%">
+
+  - As a support feature, Automatic gear shifting is available.
+When this feature is enabled, the system will automatically switch between LOW and HI gears based on your current speed.
+<img src="docs\image/CHQ002.png" width="45%">
+
+### Core Internal Processing
+
+| Process | Implementation |
+|-|-|
+| 68000 CPU ×2 | FX68K (within FPGA) |
+| Z80 CPU | TV80 (within FPGA) |
+| YM2610 Sound Generator | JT10 (within FPGA) |
+| Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
+| MAME C++ rendering logic | Not in use |
+
+### Recommended way to play
+
+Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
+
+Be sure to try it out with a steering controllers!
+
