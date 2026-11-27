@@ -40,7 +40,7 @@ I have recreated the TC0150ROD chip using RTL circuitry. This resolves rendering
 ## Core Internal Processing
 
 | Processor | Implementation |
-|-|-|
+|----------|-|
 | 68000 CPU ×2 | FX68K (within FPGA) |
 | Z80 CPU | TV80 (within FPGA) |
 | YM2610  | JT10 (within FPGA) |
