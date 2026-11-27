@@ -12,14 +12,14 @@ These arcade cores were created for personal use on MiSTerFPGA.
 
 ### Feature
 
-・Supports DIP switches\
-・Supports CRT output, with horizontal/vertical position adjustment\
-・Supports gamma and contrast correction\
-・Supports analog controllers\
-・Supports CyberStick\
-・Supports vertical-axis inversion for controls\
-・Supports position-hold functionality for controls\
-・Supports high-score saving
+  - Supports DIP switches\
+  - Supports CRT output, with horizontal/vertical position adjustment\
+  - Supports gamma and contrast correction\
+  - Supports analog controllers\
+  - Supports CyberStick\
+  - Supports vertical-axis inversion for controls\
+  - Supports position-hold functionality for controls\
+  - Supports high-score saving
 
 I have recreated the TC0150ROD chip using RTL circuitry. This resolves rendering issues previously encountered in MAME, providing an experience that more closely mirrors the original arcade hardware.
 
