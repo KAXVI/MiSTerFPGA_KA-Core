@@ -13,6 +13,7 @@
 
 <img src="docs\image\NS01.png" width="45%"> <img src="docs\image\NS02.png" width="45%">\
 <img src="docs\image\NS03.png" width="45%"> <img src="docs\image\NS04.png" width="45%">
+
 <div align="center">
 Night Striker (1989)
 | Integrated Circuit | Processor |
@@ -20,6 +21,7 @@ Night Striker (1989)
 | Main&Sub CPU | 68000x2 12MHz |
 | Sound CPU | Z80 4MHz |
 | Sound Chip | YM2610 8MHz |
+</div>
 
 ## Feature
 
