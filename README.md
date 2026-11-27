@@ -1,5 +1,7 @@
 # MiSTerFPGA_KA-Core
 
+I created these FPGA cores for my own personal enjoyment.
+
 ## NIGHT STRIKER
 
 <img src="docs\image/NS01.png" width="45%"> <img src="docs\image/NS02.png" width="45%">\
