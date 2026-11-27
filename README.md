@@ -51,8 +51,8 @@ Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monito
 Be sure to try it out with a [CyberStick](https://www.micomsoft.co.jp/xe1aj-usb.html)!
 
 　　　\
+　　　
 
-   
 # CHASE H.Q.
 
 <img src="docs\image\CHQ01.png" width="45%"> <img src="docs\image\CHQ02.png" width="45%">\
