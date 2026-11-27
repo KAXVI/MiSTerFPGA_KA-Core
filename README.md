@@ -13,7 +13,7 @@
 
 <img src="docs\image\NS01.png" width="45%"> <img src="docs\image\NS02.png" width="45%">\
 <img src="docs\image\NS03.png" width="45%"> <img src="docs\image\NS04.png" width="45%">
-
+<div align="center">
 Night Striker (1989)
 | Integrated Circuit | Processor |
 |-|-|
