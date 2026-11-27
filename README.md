@@ -20,7 +20,7 @@
 Night Striker (1989)
 | Integrated Circuit | Processor |
 |-|-|
-| Main&Sub CPU | 68000x2 12MHz |
+| Main&Sub CPU | 68000 x2 12MHz |
 | Sound CPU | Z80 4MHz |
 | Sound Chip | YM2610 8MHz |
 
@@ -40,10 +40,10 @@ I have recreated the TC0150ROD chip using RTL circuitry. This resolves rendering
 ## Core Internal Processing
 
 | Processor | Implementation |
-|-----------|----------------|
+|-----------|-|
 | 68000 CPU ×2 | FX68K (within FPGA) |
 | Z80 CPU | TV80 (within FPGA) |
-| YM2610  | JT10 (within FPGA) |
+| YM2610 Chip | JT10 (within FPGA) |
 | Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
 | MAME C++ rendering logic | Used solely for comparative verification on a PC during the production process; Not included in the RBF file |
 
@@ -64,7 +64,7 @@ Be sure to try it out with a [CyberStick](https://www.micomsoft.co.jp/xe1aj-usb.
 Chase H.Q. (1988)
 | Integrated Circuit | Processor |
 |-|-|
-| Main&Sub CPU | 68000x2 12MHz |
+| Main&Sub CPU | 68000 x2 12MHz |
 | Sound CPU | Z80 4MHz |
 | Sound Chip | YM2610 8MHz |
 
@@ -96,7 +96,7 @@ This can be configured via the OSD (default is OFF).\
 |-----------|----------------|
 | 68000 CPU ×2 | FX68K (within FPGA) |
 | Z80 CPU | TV80 (within FPGA) |
-| YM2610  | JT10 (within FPGA) |
+| YM2610 Chip | JT10 (within FPGA) |
 | Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
 | MAME C++ rendering logic | Not in use |
 
