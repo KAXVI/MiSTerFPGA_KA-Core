@@ -1,6 +1,6 @@
 # MiSTerFPGA_KA-Core
 
-I created these FPGA cores for my own personal enjoyment.
+These arcade cores were created for personal use on MiSTerFPGA.
 
 ## NIGHT STRIKER
 
