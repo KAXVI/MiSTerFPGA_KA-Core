@@ -12,13 +12,17 @@ These arcade cores were created for personal use on MiSTerFPGA.
 <img src="docs\image/NS01.png" width="45%"> <img src="docs\image/NS02.png" width="45%">\
 <img src="docs\image/NS03.png" width="45%"> <img src="docs\image/NS04.png" width="45%">
 
+|Title|
+|-|
 | Night Striker (1989) |
-|-|-|
-| Main&Sub CPU | 68000x2 12 MHz |
-| Sound CPU | Z80 4 MHz |
-| Sound Chip | YM2610 8 MHz |
 
-### Feature
+| Processor | IC |
+|-|-|
+| Main&Sub CPU | 68000x2 12MHz |
+| Sound CPU | Z80 4MHz |
+| Sound Chip | YM2610 8MHz |
+
+## Feature
 
  - Supports DIP switches
  - Supports CRT output, with horizontal/vertical position adjustment
@@ -31,7 +35,7 @@ These arcade cores were created for personal use on MiSTerFPGA.
 
 I have recreated the TC0150ROD chip using RTL circuitry. This resolves rendering issues previously encountered in MAME, providing an experience that more closely mirrors the original arcade hardware.
 
-### Core Internal Processing
+## Core Internal Processing
 
 | Process | Implementation |
 |-|-|
@@ -41,7 +45,7 @@ I have recreated the TC0150ROD chip using RTL circuitry. This resolves rendering
 | Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
 | MAME C++ rendering logic | Used solely for comparative verification on a PC during the production process; Not included in the RBF file |
 
-### Recommended way to play
+## Recommended way to play
 
 Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
 
