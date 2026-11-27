@@ -2,6 +2,8 @@
 
 > [!CAUTION]
 > These arcade cores were created for personal use on MiSTerFPGA.
+> [!IMPORTANT]
+> I love Taito Z.
 
 - [NIGHT STRIKER](#night-striker)
 - [CHASE H.Q.](#chase-hq)
