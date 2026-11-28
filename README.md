@@ -99,9 +99,9 @@ This can be configured via the OSD (default is OFF).\
 | Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
 | MAME source / rendering logic | Not in use |
 
-## Recommended way to play
-
-Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
+> [!NOTE]
+> Recommended way to play
+> Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
 
 　　　\
 　　　
