@@ -18,11 +18,12 @@
 <img src="docs\image\NS01.png" width="45%"> <img src="docs\image\NS02.png" width="45%">\
 <img src="docs\image\NS03.png" width="45%"> <img src="docs\image\NS04.png" width="45%">
 
-| Integrated Circuit | Processor | Implementation |
+| Integrated Circuit | Processor | Internal Processing |
 |-|-|-|
 | Main&Sub CPU | 68000 x2 12MHz | FX68K (within FPGA) |
 | Sound CPU | Z80 4MHz | TV80 (within FPGA) |
 | Sound Chip | YM2610 8MHz | JT10 (within FPGA) |
+
 - Roads, sprites, backgrounds, and screen layout are processed by RTL circuitry within the FPGA.
 - No MAME source code or rendering logic is used.
 
@@ -45,27 +46,19 @@
 　　　\
 　　　
 
-# CHASE H.Q.
+# CHASE H.Q. (1988)
 
 <img src="docs\image\CHQ01.png" width="45%"> <img src="docs\image\CHQ02.png" width="45%">\
 <img src="docs\image\CHQ03.png" width="45%"> <img src="docs\image\CHQ04.png" width="45%">
 
-Chase H.Q. (1988)
-| Integrated Circuit | Processor |
-|-|-|
-| Main&Sub CPU | 68000 x2 12MHz |
-| Sound CPU | Z80 4MHz |
-| Sound Chip | YM2610 8MHz |
+| Integrated Circuit | Processor | Internal Processing |
+|-|-|-|
+| Main&Sub CPU | 68000 x2 12MHz | FX68K (within FPGA) |
+| Sound CPU | Z80 4MHz | TV80 (within FPGA) |
+| Sound Chip | YM2610 8MHz | JT10 (within FPGA) |
 
-## Core Internal Processing
-
-| Processor | Implementation |
-|-|-|
-| 68000 CPU ×2 | FX68K (within FPGA) |
-| Z80 CPU | TV80 (within FPGA) |
-| YM2610 Chip | JT10 (within FPGA) |
-| Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
-| MAME source / rendering logic | Not in use |
+- Roads, sprites, backgrounds, and screen layout are processed by RTL circuitry within the FPGA.
+- No MAME source code or rendering logic is used.
 
 ## Feature
 
@@ -98,27 +91,19 @@ This can be configured via the OSD (default is OFF).\
 　　　\
 　　　
 
-# Special Criminal Investigation / S.C.I.
+# Special Criminal Investigation / S.C.I. (1989)
 
 <img src="docs\image\SCI01.png" width="45%"> <img src="docs\image\SCI02.png" width="45%">\
 <img src="docs\image\SCI03.png" width="45%"> <img src="docs\image\SCI04.png" width="45%">
 
-Special Criminal Investigation / S.C.I. (1989)
-| Integrated Circuit | Processor |
-|-|-|
-| Main&Sub CPU | 68000 x2 12MHz |
-| Sound CPU | Z80 4MHz |
-| Sound Chip | YM2610 8MHz |
+| Integrated Circuit | Processor | Internal Processing |
+|-|-|-|
+| Main&Sub CPU | 68000 x2 12MHz | FX68K (within FPGA) |
+| Sound CPU | Z80 4MHz | TV80 (within FPGA) |
+| Sound Chip | YM2610 8MHz | JT10 (within FPGA) |
 
-## Core Internal Processing
-
-| Processor | Implementation |
-|-|-|
-| 68000 CPU ×2 | FX68K (within FPGA) |
-| Z80 CPU | TV80 (within FPGA) |
-| YM2610 Chip | JT10 (within FPGA) |
-| Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
-| MAME source / rendering logic | Not in use |
+- Roads, sprites, backgrounds, and screen layout are processed by RTL circuitry within the FPGA.
+- No MAME source code or rendering logic is used.
 
 ## Feature
 
