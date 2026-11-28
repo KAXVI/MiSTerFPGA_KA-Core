@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<misterromdescription>
+  <name>S.C.I. - Special Criminal Investigation (World)</name>
+  <setname>scia</setname>
+  <year>1989</year>
+  <manufacturer>Taito</manufacturer>
+  <rbf>SCI</rbf>
+  <rotation>horizontal</rotation>
+  <buttons names="Accelerator,Brake,Turbo,Shift,Fire,Start,Coin" default="A,B,X,Y,R,Start,Select" />
+  <rom index="0" zip="scia.zip|sci.zip" md5="0d33e0322493d07b768bcd73ad2d2892">
+    <interleave output="16">
+      <part name="c09-28.43" crc="630dbaad" map="10" />
+      <part name="c09-30.40" crc="68b1a97d" map="01" />
+    </interleave>
+    <interleave output="16">
+      <part name="c09-36.38" crc="59e47cba" map="10" />
+      <part name="c09-31.41" crc="962b1fbf" map="01" />
+    </interleave>
+    <interleave output="16">
+      <part name="c09-33.6" crc="cf4e6c5b" map="10" />
+      <part name="c09-32.5" crc="a4713719" map="01" />
+    </interleave>
+    <part repeat="0x20000">FF</part>
+    <part name="c09-34.31" crc="a21b3151" />
+    <part repeat="0x20000">FF</part>
+    <part name="c09-05.16" crc="890b38f0" />
+    <part repeat="0x80000">FF</part>
+    <interleave output="64">
+      <part name="c09-04.52" crc="2cbb3c9b" map="00000021" />
+      <part name="c09-02.54" crc="a83a0389" map="00002100" />
+      <part name="c09-03.53" crc="a31d0e80" map="00210000" />
+      <part name="c09-01.55" crc="64bfea10" map="21000000" />
+    </interleave>
+    <part repeat="0x200000">FF</part>
+    <part name="c09-06.37" crc="12df6d7b" />
+    <part name="c09-07.15" crc="963bc82b" />
+    <part name="c09-14.42" crc="ad78bf46" />
+    <part name="c09-13.43" crc="d57c41d3" />
+    <part name="c09-12.44" crc="56c99fa5" />
+    <part name="c09-15.29" crc="e63b9095" />
+  </rom>
+  <rom index="1">
+    <part>00</part>
+  </rom>
+  <rom index="3">
+    <part>00 00 00 00 FF FF 00 04 00 04 00 01 00 FF 10 00 00 10 15 00 00 28 02 51 00 10 16 4E 00 04 02 80</part>
+  </rom>
+  <nvram index="4" size="44" />
+</misterromdescription>

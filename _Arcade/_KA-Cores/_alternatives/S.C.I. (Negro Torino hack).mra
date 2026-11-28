@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<misterromdescription>
+  <name>S.C.I. - Special Criminal Investigation (Negro Torino hack)</name>
+  <setname>scin</setname>
+  <year>1989</year>
+  <manufacturer>Taito</manufacturer>
+  <rbf>SCI</rbf>
+  <rotation>horizontal</rotation>
+  <buttons names="Accelerator,Brake,Turbo,Shift,Fire,Start,Coin" default="A,B,X,Y,R,Start,Select" />
+  <rom index="0" zip="scin.zip|sci.zip" md5="5c4aba4550e569ea54d6a44e8e67e745">
+    <interleave output="16">
+      <part name="ic37.37" crc="33fb159c" map="10" />
+      <part name="ic40.38" crc="657df3f2" map="01" />
+    </interleave>
+    <interleave output="16">
+      <part name="ic38.42" crc="0a09b90b" map="10" />
+      <part name="ic41.39" crc="43167b2a" map="01" />
+    </interleave>
+    <interleave output="16">
+      <part name="c09-33.6" crc="cf4e6c5b" map="10" />
+      <part name="c09-32.5" crc="a4713719" map="01" />
+    </interleave>
+    <part repeat="0x20000">FF</part>
+    <part name="c09-34.31" crc="a21b3151" />
+    <part repeat="0x20000">FF</part>
+    <part name="c09-05.16" crc="890b38f0" />
+    <part repeat="0x80000">FF</part>
+    <interleave output="64">
+      <part name="c09-04.52" crc="2cbb3c9b" map="00000021" />
+      <part name="c09-02.54" crc="a83a0389" map="00002100" />
+      <part name="c09-03.53" crc="a31d0e80" map="00210000" />
+      <part name="c09-01.55" crc="64bfea10" map="21000000" />
+    </interleave>
+    <part repeat="0x200000">FF</part>
+    <part name="c09-06.37" crc="12df6d7b" />
+    <part name="c09-07.15" crc="963bc82b" />
+    <part name="c09-14.42" crc="ad78bf46" />
+    <part name="c09-13.43" crc="d57c41d3" />
+    <part name="c09-12.44" crc="56c99fa5" />
+    <part name="c09-15.29" crc="e63b9095" />
+  </rom>
+  <rom index="1">
+    <part>00</part>
+  </rom>
+</misterromdescription>
