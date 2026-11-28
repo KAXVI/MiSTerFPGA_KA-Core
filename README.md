@@ -34,6 +34,9 @@
  - Supports gamma and contrast correction
  - Supports analog controllers
  - Supports CyberStick
+
+## Game Support Features
+
  - Supports vertical-axis inversion for controls
  - Supports position-hold functionality for controls
  - Supports high-score saving
@@ -76,7 +79,6 @@
 When this feature is enabled, it is processed in the same way as a HUD.\
 This can be configured via the OSD (default is OFF=Manual).\
 　　<img src="docs\image\CHQ002.png" width="10%">
-
  - As a support feature, Automatic gear shifting is available.\
 When this feature is enabled, the system will automatically switch between LOW and HI gears based on your current speed.\
 This can be configured via the OSD (default is OFF).\
@@ -122,7 +124,6 @@ This can be configured via the OSD (default is OFF).\
 When this feature is enabled, it is processed in the same way as a HUD.\
 This can be configured via the OSD (default is OFF=Manual).\
 　　<img src="docs\image\SCI002.png" width="10%">
-
  - As a support feature, Automatic gear shifting is available.\
 When this feature is enabled, the system will automatically switch between LOW and HI gears based on your current speed.\
 This can be configured via the OSD (default is OFF).\
