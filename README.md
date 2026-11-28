@@ -8,6 +8,7 @@
 
 - [NIGHT STRIKER](#night-striker)
 - [CHASE H.Q.](#chase-hq)
+- [Special Criminal Investigation / S.C.I.](#special-criminal-investigation--sci)
 
 　　　\
 　　　
@@ -132,12 +133,12 @@ Special Criminal Investigation / S.C.I. (1989)
  - As a support feature, the current gear can be displayed on the screen.\
 When this feature is enabled, it is processed in the same way as a HUD.\
 This can be configured via the OSD (default is OFF=Manual).\
-　　<img src="docs\image\SCI001.png" width="10%">
+　　<img src="docs\image\SCI002.png" width="10%">
 
  - As a support feature, Automatic gear shifting is available.\
 When this feature is enabled, the system will automatically switch between LOW and HI gears based on your current speed.\
 This can be configured via the OSD (default is OFF).\
-　　<img src="docs\image\SCI002.png" width="10%">
+　　<img src="docs\image\SCI001.png" width="10%">
 
 ## Core Internal Processing
 
