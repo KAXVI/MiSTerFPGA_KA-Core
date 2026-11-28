@@ -34,12 +34,12 @@
  - Supports gamma and contrast correction
  - Supports analog controllers
  - Supports CyberStick
+ - Supports high-score saving
 
 ## Game Support Features
 
  - Supports vertical-axis inversion for controls
  - Supports position-hold functionality for controls
- - Supports high-score saving
 
    
 > [!NOTE]
