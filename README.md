@@ -25,6 +25,16 @@ Night Striker (1989)
 | Sound CPU | Z80 4MHz |
 | Sound Chip | YM2610 8MHz |
 
+## Core Internal Processing
+
+| Processor | Implementation |
+|-|-|
+| 68000 CPU ×2 | FX68K (within FPGA) |
+| Z80 CPU | TV80 (within FPGA) |
+| YM2610 Chip | JT10 (within FPGA) |
+| Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
+| MAME source / rendering logic | Not in use |
+
 ## Feature
 
  - Supports DIP switches
@@ -36,21 +46,10 @@ Night Striker (1989)
  - Supports position-hold functionality for controls
  - Supports high-score saving
 
-## Core Internal Processing
-
-| Processor | Implementation |
-|-|-|
-| 68000 CPU ×2 | FX68K (within FPGA) |
-| Z80 CPU | TV80 (within FPGA) |
-| YM2610 Chip | JT10 (within FPGA) |
-| Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
-| MAME source / rendering logic | Not in use |
-
-## Recommended way to play
-
-Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
-
-Be sure to try it out with a [CyberStick](https://www.micomsoft.co.jp/xe1aj-usb.html)!
+> [!NOTE]
+> Recommended way to play
+> Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
+> Be sure to try it out with a [CyberStick](https://www.micomsoft.co.jp/xe1aj-usb.html)!
 
 　　　\
 　　　
@@ -119,6 +118,16 @@ Special Criminal Investigation / S.C.I. (1989)
 | Sound CPU | Z80 4MHz |
 | Sound Chip | YM2610 8MHz |
 
+## Core Internal Processing
+
+| Processor | Implementation |
+|-|-|
+| 68000 CPU ×2 | FX68K (within FPGA) |
+| Z80 CPU | TV80 (within FPGA) |
+| YM2610 Chip | JT10 (within FPGA) |
+| Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
+| MAME source / rendering logic | Not in use |
+
 ## Feature
 
  - Supports DIP switches
@@ -142,19 +151,10 @@ When this feature is enabled, the system will automatically switch between LOW a
 This can be configured via the OSD (default is OFF).\
 　　<img src="docs\image\SCI001.png" width="10%">
 
-## Core Internal Processing
-
-| Processor | Implementation |
-|-|-|
-| 68000 CPU ×2 | FX68K (within FPGA) |
-| Z80 CPU | TV80 (within FPGA) |
-| YM2610 Chip | JT10 (within FPGA) |
-| Road, sprites, background, and screen composition | RTL circuitry (within FPGA) |
-| MAME source / rendering logic | Not in use |
-
-## Recommended way to play
-
-Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
+   
+> [!NOTE]
+> Recommended way to play
+> Setting the gamma to 0.80 and the contrast to 1.10 while playing on a CRT monitor recreates the experience of playing on an original arcade cabinet.
 
 Be sure to try it out with a steering controllers!
 
