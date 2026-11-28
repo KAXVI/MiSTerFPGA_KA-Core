@@ -99,7 +99,6 @@ When this feature is enabled, the system will automatically switch between LOW a
 This can be configured via the OSD (default is OFF).\
 　　<img src="docs\image\CHQ001.png" width="10%">
 
-　　　\
    
 > [!NOTE]
 > Recommended way to play
