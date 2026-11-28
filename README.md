@@ -6,9 +6,9 @@
 > [!IMPORTANT]
 > I love Taito Z.
 
-- [NIGHT STRIKER](#night-striker)
-- [CHASE H.Q.](#chase-hq)
-- [Special Criminal Investigation / S.C.I.](#special-criminal-investigation--sci)
+- [NIGHT STRIKER](#night-striker-1989)
+- [CHASE H.Q.](#chase-hq-1988)
+- [Special Criminal Investigation / S.C.I.](#special-criminal-investigation--sci-1989)
 
 　　　\
 　　　
@@ -70,7 +70,7 @@
  - Supports Some USB steering controllers
  - Supports high-score saving
 
-## Support features
+## Game Support Features
 
  - As a support feature, the current gear can be displayed on the screen.\
 When this feature is enabled, it is processed in the same way as a HUD.\
@@ -116,7 +116,7 @@ This can be configured via the OSD (default is OFF).\
  - Supports high-score saving
  - Supports Negro Torino hack
 
-## Support features
+## Game Support Features
 
  - As a support feature, the current gear can be displayed on the screen.\
 When this feature is enabled, it is processed in the same way as a HUD.\
