@@ -127,6 +127,7 @@ Special Criminal Investigation / S.C.I. (1989)
  - Supports CyberStick
  - Supports Some USB steering controllers
  - Supports high-score saving
+ - Supports Negro Torino hack
 
 ## Support features
 
