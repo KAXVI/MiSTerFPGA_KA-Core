@@ -18,7 +18,7 @@
 <img src="docs\image\NS01.png" width="45%"> <img src="docs\image\NS02.png" width="45%">\
 <img src="docs\image\NS03.png" width="45%"> <img src="docs\image\NS04.png" width="45%">
 
-| Integrated Circuit | Processor | Internal Processing           |
+| Integrated Circuit | Processor | Internal Processing |
 |-|-|-|
 | Main&Sub CPU | 68000 x2 12MHz | FX68K (within FPGA) |
 | Sound CPU | Z80 4MHz | TV80 (within FPGA) |
